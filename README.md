@@ -2,6 +2,7 @@
 
 <h1 align='center'> Hi there👋 I'm Ahsan Imran </h1>
 <p align='center'>Full Stack Developer :computer: / UI Designer :paintbrush: </p>
+<p align='center'><a href="https://www.linkedin.com/in/ahsan-imran-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a></p>
 
 ## About me
 Hey👋 its me Ahsan Imran I am full stack software Developer :computer: and UI Designer :paintbrush: currently working :man: in Astera as a full time Software Engineer :desktop_computer:
