@@ -1,7 +1,7 @@
 ![Black Modern Minimal Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/60193296/182192503-e112b77e-a527-4f2f-9bcb-c1c36f3b72f5.png)
 
 <h1 align='center'> Hi there👋 I'm Ahsan Imran </h1>
-<p align='center'>Full Stack Developer :computer: / UI Designer :paintbrush: </p>
+<p align='center'>Full Stack Developer :computer: / Backend Software Engineer </p>
 <p align='center'><a href="https://www.linkedin.com/in/ahsan-imran-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a></p>
 
 ## About me
