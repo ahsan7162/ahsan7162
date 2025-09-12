@@ -15,20 +15,17 @@ I'm always open to collaborating, discussing innovative ideas, and exploring new
 ## Technical Skills
 Programming Languages: [![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css)](https://skillicons.dev)
 
-Project Management: Agile, Scrum
+Libraries: Matplotlib, OpenAI, LLAMA, Pydantic, Pyannote, Scarpy, BeautifulSoup, Transformers, Jinja2, LLama Index, LangChain, LangGraph
 
-Frameworks & libraries: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+Frameworks & libraries: [![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,fastapi)](https://skillicons.dev)
 
-Databases: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-Design Software: ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Databases: [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 Version Control: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Currently Learning
 
-Currently I am learning how to better use the best programming practices to learn to write clean and efficient codes and how I can use the these programming practices in the production environment.
-I am also actively learning how I can contribute more in open source.
+I am currently focused on learning how to design large-scale backend systems, delving into the principles of scalable architecture, distributed computing, and robust data management. At the same time, I am deeply exploring the world of large language models (LLMs), studying their underlying technologies, training methodologies, and practical applications in real-world scenarios. My goal is to build a strong foundation in both backend system design and advanced AI models to create innovative and efficient solutions.
 
 ## Contact Me On :iphone:
 
