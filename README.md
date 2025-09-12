@@ -5,15 +5,15 @@
 <p align='center'><a href="https://www.linkedin.com/in/ahsan-imran-/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a></p>
 
 ## About me
-Hey👋 its me Ahsan Imran I am full stack software Developer :computer: and UI Designer :paintbrush: currently working :man: in Astera as a full time Software Engineer :desktop_computer:
+Hey there! I'm Ahsan, a passionate Software Developer who thrives on crafting high-quality, scalable digital solutions. I specialize in building efficient, high-performance web applications, seamlessly integrating frontend and backend technologies.
 
-My interest is towards the web development :globe_with_meridians: field currently using MERN stack as is most up to date stack.
- 
-Being learning for a quite a lot of time, I have done lots of practice towards building beautiful UI using the frontend frameworks ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) and making a secure and optimized backend using up to date backend technologies ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) . I have also done practice in the field of data science. As for my hobby I love to Design posters,web UI, app UI, covers etc using ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+I have expertise in React.js for building modern user interfaces and FastAPI, Node.js, C#, .NET, and Python for developing robust backend systems. My experience extends to MSSQL and PostgreSQL, where I design and optimize databases for performance and scalability. Additionally, I focus on architecting scalable, optimized systems that ensure long-term efficiency, maintainability, and reliability.
+
+📩 Let's Connect!
+I'm always open to collaborating, discussing innovative ideas, and exploring new opportunities. Feel free to reach out!
 
 ## Technical Skills
-Programming Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Programming Languages: [![My Skills](https://skillicons.dev/icons?i=cs,py,js,html,css)](https://skillicons.dev)
 
 Project Management: Agile, Scrum
 
