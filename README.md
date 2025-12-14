@@ -33,7 +33,7 @@ I am currently focused on learning how to design large-scale backend systems, de
 <h3> :email: imranahsan716@gmail.com </h3>
 
 ## My Github Stats
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-Careem&show_icons=true&theme=radical)
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsan7162&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan7162&show_icons=true&theme=radical&layout=compact&langs_count=10)](https://github.com/ahsan7162)
 
 <!--
